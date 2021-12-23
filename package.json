@@ -13,6 +13,7 @@
     "morgan": "~1.9.1"
   },
   "devDependencies": {
+    "cypress": "^9.2.0",
     "debug": "~2.6.9",
     "nodemon": "~2.0.15"
   }
